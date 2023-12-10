@@ -1,7 +1,7 @@
 # EXAMEN 3 - CI3641 - PREGUNTA 4
 # Jennifer Gámez 16-10396
 
-## Instrucciones de Ejecucion.
+## Instrucciones de Ejecución
 
     - gestorclase.py: Implementa el manejo de tablas de métodos virtuales.
     - main.py: Contiene el main() o la lógica principal de la aplicación
