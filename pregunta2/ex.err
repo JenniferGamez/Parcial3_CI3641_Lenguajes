@@ -1,0 +1,24 @@
+/home/jenni/Documentos/Parcial /pregunta2/euphoria/pregunta2/producto_punto.e:1
+<0052>:: can't find 'std/concurrency.e' in any of ...
+	/home/jenni/Documentos/Parcial /pregunta2/euphoria/pregunta2
+	/home/jenni/Documentos/Parcial /pregunta2/euphoria/pregunta2/producto_punto.e
+	/usr/local/euphoria-4.1.0-Linux-x64/include
+	/usr/local/euphoria-4.1.0-Linux-x64
+
+include std/concurrency.e
+                         ^
+
+
+--- Defined Words ---
+EU4
+EU4_1
+EU4_1_0
+CONSOLE
+UNIX
+LINUX
+X86_64
+BITS64
+LONG64
+E64
+EUI
+-------------------
